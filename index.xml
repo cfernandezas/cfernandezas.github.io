@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Restauración lugar público</title>
+      <link>https://cfernandezas.github.io/docs/avance-13-julio/</link>
+      <pubDate>Wed, 08 Jul 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://cfernandezas.github.io/docs/avance-13-julio/</guid>
+      <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
+    </item>
+    
+    <item>
       <title>Encargo2 Fusion 360</title>
       <link>https://cfernandezas.github.io/docs/encargo-2-fusion-360/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -41,7 +50,7 @@
     <item>
       <title>Restauración</title>
       <link>https://cfernandezas.github.io/docs/proyecto1/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <pubDate>Mon, 15 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://cfernandezas.github.io/docs/proyecto1/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
