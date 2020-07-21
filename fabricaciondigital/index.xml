@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fabricación Digital on Nombre Alumno</title>
+    <title>Fabricación Digital on Constanza Fernández</title>
     <link>https://cfernandezas.github.io/fabricaciondigital/</link>
-    <description>Recent content in Fabricación Digital on Nombre Alumno</description>
+    <description>Recent content in Fabricación Digital on Constanza Fernández</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate>
@@ -18,6 +18,15 @@
       
       <guid>https://cfernandezas.github.io/fabricaciondigital/docs/instalar-tema/</guid>
       <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Entrega Tutorial Mecanizado CNC</title>
+      <link>https://cfernandezas.github.io/fabricaciondigital/docs/entrega-cnc/</link>
+      <pubDate>Mon, 20 Jul 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://cfernandezas.github.io/fabricaciondigital/docs/entrega-cnc/</guid>
+      <description>Tutorial mecanizado CNC Silla Fresia</description>
     </item>
     
     <item>
