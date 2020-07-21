@@ -1,85 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller Ciudad y Espacio 2020 on Constanza Fernández Aspillaga</title>
-    <link>https://cfernandezas.github.io/docs/</link>
-    <description>Recent content in Taller Ciudad y Espacio 2020 on Constanza Fernández Aspillaga</description>
+    <title>Fabricación Digital on Constanza Fernández</title>
+    <link>https://cfernandezas.github.io/fabricaciondigital/docs/</link>
+    <description>Recent content in Fabricación Digital on Constanza Fernández</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
     
-	<atom:link href="https://cfernandezas.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cfernandezas.github.io/fabricaciondigital/docs/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Restauración Lugar Público 20-07</title>
-      <link>https://cfernandezas.github.io/docs/avance-20-julio/</link>
-      <pubDate>Fri, 17 Jul 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://cfernandezas.github.io/docs/avance-20-julio/</guid>
-      <description>Avance 20 julio.</description>
-    </item>
-    
-    <item>
-      <title>Restauración Lugar Público</title>
-      <link>https://cfernandezas.github.io/docs/avance-13-julio/</link>
-      <pubDate>Wed, 08 Jul 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://cfernandezas.github.io/docs/avance-13-julio/</guid>
-      <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
-    </item>
-    
-    <item>
-      <title>Encargo2 Fusion 360</title>
-      <link>https://cfernandezas.github.io/docs/encargo-2-fusion-360/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://cfernandezas.github.io/docs/encargo-2-fusion-360/</guid>
-      <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
-    </item>
     
     <item>
       <title>Instalar Tema</title>
-      <link>https://cfernandezas.github.io/docs/instalar-tema/</link>
+      <link>https://cfernandezas.github.io/fabricaciondigital/docs/instalar-tema/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://cfernandezas.github.io/docs/instalar-tema/</guid>
+      <guid>https://cfernandezas.github.io/fabricaciondigital/docs/instalar-tema/</guid>
       <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
     </item>
     
     <item>
-      <title>Configuración</title>
-      <link>https://cfernandezas.github.io/docs/configuracion/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>Entrega Tutorial Mecanizado CNC</title>
+      <link>https://cfernandezas.github.io/fabricaciondigital/docs/entrega-cnc/</link>
+      <pubDate>Mon, 20 Jul 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://cfernandezas.github.io/docs/configuracion/</guid>
+      <guid>https://cfernandezas.github.io/fabricaciondigital/docs/entrega-cnc/</guid>
+      <description>Tutorial mecanizado CNC Silla Fresia</description>
+    </item>
+    
+    <item>
+      <title>Entrega Planimetrías</title>
+      <link>https://cfernandezas.github.io/fabricaciondigital/docs/entrega-planimetr%C3%ADas/</link>
+      <pubDate>Mon, 13 Jul 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://cfernandezas.github.io/fabricaciondigital/docs/entrega-planimetr%C3%ADas/</guid>
       <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
     </item>
     
     <item>
-      <title>Restauración</title>
-      <link>https://cfernandezas.github.io/docs/proyecto1/</link>
-      <pubDate>Mon, 15 Jun 2020 19:30:08 +1000</pubDate>
+      <title>Configuración</title>
+      <link>https://cfernandezas.github.io/fabricaciondigital/docs/configuracion/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://cfernandezas.github.io/docs/proyecto1/</guid>
+      <guid>https://cfernandezas.github.io/fabricaciondigital/docs/configuracion/</guid>
+      <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://cfernandezas.github.io/fabricaciondigital/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://cfernandezas.github.io/fabricaciondigital/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>https://cfernandezas.github.io/docs/markdown/</link>
+      <link>https://cfernandezas.github.io/fabricaciondigital/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://cfernandezas.github.io/docs/markdown/</guid>
+      <guid>https://cfernandezas.github.io/fabricaciondigital/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
       <title>Objetivos del Curso</title>
-      <link>https://cfernandezas.github.io/docs/objetivos/</link>
+      <link>https://cfernandezas.github.io/fabricaciondigital/docs/objetivos/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://cfernandezas.github.io/docs/objetivos/</guid>
+      <guid>https://cfernandezas.github.io/fabricaciondigital/docs/objetivos/</guid>
       <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
     </item>
     
