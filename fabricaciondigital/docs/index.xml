@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fabricación Digital on Constanza Fernández</title>
+    <title>Fabricación Digital on Constanza Fernández Aspillaga</title>
     <link>https://cfernandezas.github.io/fabricaciondigital/docs/</link>
-    <description>Recent content in Fabricación Digital on Constanza Fernández</description>
+    <description>Recent content in Fabricación Digital on Constanza Fernández Aspillaga</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
@@ -14,10 +14,19 @@
     <item>
       <title>Instalar Tema</title>
       <link>https://cfernandezas.github.io/fabricaciondigital/docs/instalar-tema/</link>
-      <pubDate>Mon, 17 Jun 2019 19:30:08 +1000</pubDate>
+      <pubDate>Fri, 05 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://cfernandezas.github.io/fabricaciondigital/docs/instalar-tema/</guid>
       <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Entrega 3: Mecanizado 2.5D</title>
+      <link>https://cfernandezas.github.io/fabricaciondigital/docs/encargo3/</link>
+      <pubDate>Wed, 29 Jul 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://cfernandezas.github.io/fabricaciondigital/docs/encargo3/</guid>
+      <description>Respaldo Silla Fresia en Mecanizado 2.5 D</description>
     </item>
     
     <item>
@@ -45,15 +54,6 @@
       
       <guid>https://cfernandezas.github.io/fabricaciondigital/docs/configuracion/</guid>
       <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
-    </item>
-    
-    <item>
-      <title>Entrega 3: Mecanizado 2.5D</title>
-      <link>https://cfernandezas.github.io/fabricaciondigital/docs/encargo3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cfernandezas.github.io/fabricaciondigital/docs/encargo3/</guid>
-      <description>Respaldo Silla Fresia en Mecanizado 2.5 D</description>
     </item>
     
     <item>
