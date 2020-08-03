@@ -14,7 +14,7 @@
     <item>
       <title>Instalar Tema</title>
       <link>https://cfernandezas.github.io/fabricaciondigital/docs/instalar-tema/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <pubDate>Mon, 17 Jun 2019 19:30:08 +1000</pubDate>
       
       <guid>https://cfernandezas.github.io/fabricaciondigital/docs/instalar-tema/</guid>
       <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
@@ -45,6 +45,15 @@
       
       <guid>https://cfernandezas.github.io/fabricaciondigital/docs/configuracion/</guid>
       <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
+    </item>
+    
+    <item>
+      <title>Entrega 3: Mecanizado 2.5D</title>
+      <link>https://cfernandezas.github.io/fabricaciondigital/docs/encargo3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cfernandezas.github.io/fabricaciondigital/docs/encargo3/</guid>
+      <description>Respaldo Silla Fresia en Mecanizado 2.5 D</description>
     </item>
     
     <item>
