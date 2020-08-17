@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Modelos Puestos de Feria</title>
+      <link>https://cfernandezas.github.io/docs/modelos-puestos-de-feria/</link>
+      <pubDate>Sun, 16 Aug 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://cfernandezas.github.io/docs/modelos-puestos-de-feria/</guid>
+      <description>Encargo 5</description>
+    </item>
+    
+    <item>
       <title>Construcción Puestos de Feria</title>
       <link>https://cfernandezas.github.io/docs/construcci%C3%B3n-feria/</link>
       <pubDate>Thu, 30 Jul 2020 19:30:08 +1000</pubDate>
@@ -59,7 +68,7 @@
     <item>
       <title>Instalar Tema</title>
       <link>https://cfernandezas.github.io/docs/instalar-tema/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <pubDate>Tue, 17 Mar 2020 19:30:08 +1000</pubDate>
       
       <guid>https://cfernandezas.github.io/docs/instalar-tema/</guid>
       <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
